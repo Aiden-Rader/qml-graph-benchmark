@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#===========================
+# PERSONAL #
+#===========================
+
+# Dataset caches
+data/Cora/processed
+data/Cora/raw
+
+# Conda
+.env
+.venv
+
+# Misc.
+.agents
